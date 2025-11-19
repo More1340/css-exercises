@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(228, 174, 174);
+    font-family: Arial, Helvetica, sans-serif;
+}
